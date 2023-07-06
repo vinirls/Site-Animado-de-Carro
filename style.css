@@ -194,7 +194,9 @@ body {
 }
 
 /* KEYFRAMES ANIMATION */
+
 @keyframes slideRight {
+
     0% {
         transform: translateX(-100px);
         opacity: 0;
@@ -207,6 +209,7 @@ body {
 }
 
 @keyframes slideLeft {
+
     0% {
         transform: translateX(100px);
         opacity: 0;
@@ -219,6 +222,7 @@ body {
 }
 
 @keyframes slideTop {
+
     0% {
         transform: translateY(-100px);
         opacity: 0;
@@ -231,6 +235,7 @@ body {
 }
 
 @keyframes slideBottom {
+
     0% {
         transform: translateY(-100px);
         opacity: 0;
@@ -243,6 +248,7 @@ body {
 }
 
 @keyframes slideSci {
+
     0% {
         transform: translateX(100px) rotate(45deg);
         opacity: 0;
@@ -255,6 +261,7 @@ body {
 }
 
 @keyframes zoomOut {
+
     0% {
         transform: scale(1.1);
         opacity: 0;
@@ -267,6 +274,7 @@ body {
 }
 
 @keyframes car {
+
     0% {
         transform: translate(300px -300px) scale(0) rotate(-45deg);
         opacity: 0;
@@ -279,6 +287,7 @@ body {
 }
 
 @keyframes rhombus2 {
+
     0% {
         right: -40% ;
         opacity: 0;
